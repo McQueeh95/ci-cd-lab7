@@ -1,4 +1,4 @@
-FROM python:3.10-slims
+FROM python:3.10-slim
 
 WORKDIR lab7project
 
